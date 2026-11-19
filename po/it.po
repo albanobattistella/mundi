@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: mundi\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-19 13:52+0100\n"
-"PO-Revision-Date: 2026-10-17 20:10+0200\n"
+"PO-Revision-Date: 2026-11-19 19:50+0200\n"
 "Last-Translator: Florian Frauenfelder <florian.l.frauenfelder@gmail.com>\n"
 "Language-Team: Swiss German\n"
 "Language: de_CH\n"
@@ -2722,359 +2722,359 @@ msgstr "Turia"
 
 #: src/region_names.rs:828
 msgid "Albufera of Valencia"
-msgstr ""
+msgstr "Albufera di Valencia"
 
 #: src/region_names.rs:829
 msgid "Alarcón Reservoir"
-msgstr ""
+msgstr "Bacino di Alarcón"
 
 #: src/region_names.rs:830
 msgid "Almendra Reservoir"
-msgstr ""
+msgstr "Bacino di Almendra"
 
 #: src/region_names.rs:831
 msgid "Lake Banyoles"
-msgstr ""
+msgstr "Lago di Banyoles"
 
 #: src/region_names.rs:832
 msgid "Buendía Reservoir"
-msgstr ""
+msgstr "Bacino di Buendía"
 
 #: src/region_names.rs:833
 msgid "Lake Gallocanta"
-msgstr ""
+msgstr "Lago di Gallocanta"
 
 #: src/region_names.rs:834
 msgid "La Serena Reservoir"
-msgstr ""
+msgstr "Bacino di La Serena"
 
 #: src/region_names.rs:835
 msgid "Mar Menor"
-msgstr ""
+msgstr "Mar Menor"
 
 #: src/region_names.rs:836
 msgid "Mequinenza Reservoir"
-msgstr ""
+msgstr "Bacino di Mequinenza"
 
 #: src/region_names.rs:837
 msgid "Lake Sanabria"
-msgstr ""
+msgstr "Lago di Sanabria"
 
 #: src/region_names.rs:838
 msgid "Sau Reservoir"
-msgstr ""
+msgstr "Bacino di Sau"
 
 #: src/region_names.rs:839
 msgid "Ullibarri-Gamboa Reservoir"
-msgstr ""
+msgstr "Bacino di Ullibarri-Gamboa"
 
 #: src/region_names.rs:843
 msgid "Cantabrian Mountains"
-msgstr ""
+msgstr "Monti Cantabrici"
 
 #: src/region_names.rs:844
 msgid "Galician Massif"
-msgstr ""
+msgstr "Massiccio Galiziano"
 
 #: src/region_names.rs:845
 msgid "Montes de León"
-msgstr ""
+msgstr "Monti di León"
 
 #: src/region_names.rs:846
 msgid "Montes de Toledo"
-msgstr ""
+msgstr "Monti di Toledo"
 
 #: src/region_names.rs:847
 msgid "Pyrenees"
-msgstr ""
+msgstr "Pirenei"
 
 #: src/region_names.rs:848
 msgid "Sierra Morena"
-msgstr ""
+msgstr "Sierra Morena"
 
 #: src/region_names.rs:849
 msgid "Central System"
-msgstr ""
+msgstr "Sistema Centrale"
 
 #: src/region_names.rs:850
 msgid "Catalan Coastal Range"
-msgstr ""
+msgstr "Catena Costiera Catalana"
 
 #: src/region_names.rs:851
 msgid "Iberian System"
-msgstr ""
+msgstr "Sistema Iberico"
 
 #: src/region_names.rs:852
 msgid "Baetic System"
-msgstr ""
+msgstr "Sistema Betico"
 
 #: src/region_names.rs:856
 msgid "Almanzor"
-msgstr ""
+msgstr "Almanzor"
 
 #: src/region_names.rs:857
 msgid "Aneto"
-msgstr ""
+msgstr "Aneto"
 
 #: src/region_names.rs:858
 msgid "Garajonay"
-msgstr ""
+msgstr "Garajonay"
 
 #: src/region_names.rs:859
 msgid "Moncayo"
-msgstr ""
+msgstr "Moncayo"
 
 #: src/region_names.rs:860
 msgid "Mont Caro"
-msgstr ""
+msgstr "Mont Caro"
 
 #: src/region_names.rs:861
 msgid "Monte Perdido"
-msgstr ""
+msgstr "Monte Perdido"
 
 #: src/region_names.rs:862
 msgid "Mulhacén"
-msgstr ""
+msgstr "Mulhacén"
 
 #: src/region_names.rs:863
 msgid "Peña Trevinca"
-msgstr ""
+msgstr "Peña Trevinca"
 
 #: src/region_names.rs:864
 msgid "Peñalara"
-msgstr ""
+msgstr "Peñalara"
 
 #: src/region_names.rs:865
 msgid "Roque de los Muchachos"
-msgstr ""
+msgstr "Roque de los Muchachos"
 
 #: src/region_names.rs:866
 msgid "Mount Teide"
-msgstr ""
+msgstr "Monte Teide"
 
 #: src/region_names.rs:867
 msgid "Timanfaya"
-msgstr ""
+msgstr "Timanfaya"
 
 #: src/region_names.rs:868
 msgid "Torre de Cerredo"
-msgstr ""
+msgstr "Torre de Cerredo"
 
 #: src/region_names.rs:872
 msgid "Strait of Gibraltar"
-msgstr ""
+msgstr "Stretto di Gibilterra"
 
 #: src/region_names.rs:873
 msgid "Balearic Sea"
-msgstr ""
+msgstr "Mar delle Baleari"
 
 #: src/region_names.rs:874
 msgid "Cantabrian Sea"
-msgstr ""
+msgstr "Mar Cantabrico"
 
 #: src/region_names.rs:875
 msgid "Alboran Sea"
-msgstr ""
+msgstr "Mare di Alborán"
 
 #: src/region_names.rs:876
 msgid "Mediterranean Sea"
-msgstr ""
+msgstr "Mar Mediterraneo"
 
 #: src/region_names.rs:877
 msgid "Atlantic Ocean"
-msgstr ""
+msgstr "Oceano Atlantico"
 
 #: src/region_names.rs:881
 msgid "Cabrera"
-msgstr ""
+msgstr "Cabrera"
 
 #: src/region_names.rs:882
 msgid "El Hierro"
-msgstr ""
+msgstr "El Hierro"
 
 #: src/region_names.rs:883
 msgid "Formentera"
-msgstr ""
+msgstr "Formentera"
 
 #: src/region_names.rs:884
 msgid "Fuerteventura"
-msgstr ""
+msgstr "Fuerteventura"
 
 #: src/region_names.rs:885
 msgid "Gran Canaria"
-msgstr ""
+msgstr "Gran Canaria"
 
 #: src/region_names.rs:886
 msgid "Ibiza"
-msgstr ""
+msgstr "Ibiza"
 
 #: src/region_names.rs:887
 msgid "Atlantic Islands"
-msgstr ""
+msgstr "Isole Atlantiche"
 
 #: src/region_names.rs:888
 msgid "Columbretes Islands"
-msgstr ""
+msgstr "Isole Columbretes"
 
 #: src/region_names.rs:889
 msgid "La Gomera"
-msgstr ""
+msgstr "La Gomera"
 
 #: src/region_names.rs:890
 msgid "La Palma"
-msgstr ""
+msgstr "La Palma"
 
 #: src/region_names.rs:891
 msgid "Lanzarote"
-msgstr ""
+msgstr "Lanzarote"
 
 #: src/region_names.rs:892
 msgid "Majorca"
-msgstr ""
+msgstr "Maiorca"
 
 #: src/region_names.rs:893
 msgid "Minorca"
-msgstr ""
+msgstr "Minorca"
 
 #: src/region_names.rs:894
 msgid "Tenerife"
-msgstr ""
+msgstr "Tenerife"
 
 #: src/region_names.rs:898
 msgid "El Bierzo"
-msgstr ""
+msgstr "El Bierzo"
 
 #: src/region_names.rs:899
 msgid "Huerta de Valencia"
-msgstr ""
+msgstr "Huerta di Valencia"
 
 #: src/region_names.rs:900
 msgid "La Alcarria"
-msgstr ""
+msgstr "La Alcarria"
 
 #: src/region_names.rs:901
 msgid "La Mancha"
-msgstr ""
+msgstr "La Mancia"
 
 #: src/region_names.rs:902
 msgid "Northern Plateau"
-msgstr ""
+msgstr "Meseta Settentrionale"
 
 #: src/region_names.rs:903
 msgid "Southern Plateau"
-msgstr ""
+msgstr "Meseta Meridionale"
 
 #: src/region_names.rs:904
 msgid "Penedès"
-msgstr ""
+msgstr "Penedès"
 
 #: src/region_names.rs:905
 msgid "Tierra de Campos"
-msgstr ""
+msgstr "Tierra de Campos"
 
 #: src/region_names.rs:906
 msgid "Ebro Valley"
-msgstr ""
+msgstr "Valle dell'Ebro"
 
 #: src/region_names.rs:907
 msgid "Guadalquivir Valley"
-msgstr ""
+msgstr "Valle del Guadalquivir"
 
 #: src/region_names.rs:908
 msgid "Vega de Granada"
-msgstr ""
+msgstr "Vega di Granada"
 
 #: src/region_names.rs:912
 msgid "Cape Creus"
-msgstr ""
+msgstr "Capo Creus"
 
 #: src/region_names.rs:913
 msgid "Cape Gata"
-msgstr ""
+msgstr "Capo de Gata"
 
 #: src/region_names.rs:914
 msgid "Cape Palos"
-msgstr ""
+msgstr "Capo Palos"
 
 #: src/region_names.rs:915
 msgid "Cape Peñas"
-msgstr ""
+msgstr "Capo Peñas"
 
 #: src/region_names.rs:916
 msgid "Cape Trafalgar"
-msgstr ""
+msgstr "Capo Trafalgar"
 
 #: src/region_names.rs:917
 msgid "Cape La Nao"
-msgstr ""
+msgstr "Capo La Nao"
 
 #: src/region_names.rs:918
 msgid "Cape Finisterre"
-msgstr ""
+msgstr "Capo Finisterre"
 
 #: src/region_names.rs:919
 msgid "Cape Ortegal"
-msgstr ""
+msgstr "Capo Ortegal"
 
 #: src/region_names.rs:920
 msgid "Gulf of Almería"
-msgstr ""
+msgstr "Golfo di Almería"
 
 #: src/region_names.rs:921
 msgid "Gulf of Cádiz"
-msgstr ""
+msgstr "Golfo di Cadice"
 
 #: src/region_names.rs:922
 msgid "Gulf of Roses"
-msgstr ""
+msgstr "Golfo delle Rose"
 
 #: src/region_names.rs:923
 msgid "Gulf of Valencia"
-msgstr ""
+msgstr "Golfo di Valencia"
 
 #: src/region_names.rs:924
 msgid "Bay of Biscay"
-msgstr ""
+msgstr "Golfo di Biscaglia"
 
 #: src/region_names.rs:925
 msgid "Tarifa Point"
-msgstr ""
+msgstr "Punta di Tarifa"
 
 #: src/region_names.rs:936
 msgid "Cíes Islands"
-msgstr ""
+msgstr "Isole Cíes"
 
 #: src/region_names.rs:937
 msgid "Ons Island"
-msgstr ""
+msgstr "Isola di Ons"
 
 #: src/region_names.rs:938
 msgid "Sálvora Island"
-msgstr ""
+msgstr "Isola di Sálvora"
 
 #: src/region_names.rs:939
 msgid "Cortegada Island"
-msgstr ""
+msgstr "Isola di Cortegada"
 
 #: src/region_names.rs:940
 msgid "Arousa Island"
-msgstr ""
+msgstr "Isola di Arousa"
 
 #: src/region_names.rs:941
 msgid "Tambo Island"
-msgstr ""
+msgstr "Isola di Tambo"
 
 #: src/region_names.rs:942
 msgid "San Simón Island"
-msgstr ""
+msgstr "Isola di San Simón"
 
 #: src/region_names.rs:943
 msgid "A Toxa Island"
-msgstr ""
+msgstr "Isola di A Toxa"
 
 #: src/region_names.rs:944
 msgid "Sisargas Islands"
-msgstr ""
+msgstr "Isole Sisargas"
 
 #: src/region_names.rs:948
 msgid "Auvergne-Rhône-Alpes"
@@ -3358,7 +3358,7 @@ msgstr "Golfi e penisole"
 
 #: src/registry.rs:193
 msgid "Islands"
-msgstr ""
+msgstr "Isole"
 
 #: src/registry.rs:206 src/registry.rs:256
 msgid "Regions"
